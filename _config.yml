@@ -10,7 +10,7 @@ description: "白水的博客，公众号：暂无"
 keywords: XXXXXXXXXX
 timezone: Asia/Shanghai
 encoding: "utf-8"
-repository: mzlogin/mzlogin.github.io
+repository: bai-shui/bai-shui.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
